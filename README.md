@@ -2,8 +2,8 @@
 
 - # ![](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg) **PROGRAM DATA MAHASISWA PYTHON**
 
-![nama](https://img.shields.io/badge/nama-Aza%20Naila%20Sofa-greend.svg)
-![nim](https://img.shields.io/badge/nim-312110072-orange.svg)
+![nama](https://img.shields.io/badge/nama-Johan%20Putra%20Pradana-greend.svg)
+![nim](https://img.shields.io/badge/nim-312110314-orange.svg)
 ![kelas](https://img.shields.io/badge/kelas-TI.21.C1-blue.svg)
 
 **SOAL UJIAN**
